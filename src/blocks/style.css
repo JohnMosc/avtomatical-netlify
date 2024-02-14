@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  background-color: black;
+  display: grid;
+  inline-size: 100%;
+  block-size: 90vb;
+  justify-content: center;
+  align-items: center;
+  color: brown;
+}
